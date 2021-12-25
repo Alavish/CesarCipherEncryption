@@ -1,0 +1,6 @@
+C:\Irvine\Irvine_32Bit\Project32_VS2019\Debug\Project.exe
+C:\Irvine\Irvine_32Bit\Project32_VS2019\Debug\NativeCodeAnalysis.read.1.tlog
+C:\Irvine\Irvine_32Bit\MP3\MP3_Project1\Practice\Debug\Project.exe
+C:\Irvine\Irvine_32Bit\MP3\MP3_Project3\Debug\Project.exe
+C:\Irvine\Irvine_32Bit\Final Project\Debug\Project.exe
+C:\Irvine\Irvine_32Bit\Final_Project\source_code\Debug\Project.exe
